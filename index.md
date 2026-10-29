@@ -1,47 +1,47 @@
 # Santiago Cortés
 
-¡Hola! Te doy la bienvenida a mi portafolio de proyectos de **Análisis de Datos**.
+Welcome! I am a **Data Analyst** dedicated to turning complex data into clear, actionable business strategies.
 
 [View My GitHub Profile](https://github.com)
 
-# Acerca de mí
+# About Me
 
-Profesional en Ingeniería enfocado en el Análisis de Datos, con experiencia en la extracción, limpieza, transformación y modelado de datos para la toma de decisiones estratégicas. 
+A results-driven Engineering professional specializing in Data Analysis, with a solid background in extracting, cleaning, transforming, and modeling data to support strategic decision-making. 
 
-Mi objetivo es transformar datos crudos en insights accionables y automatizar procesos para optimizar la eficiencia operativa.
+My focus centers on translating raw data into impactful insights and automating processes to optimize operational efficiency and drive business growth.
 
-### Habilidades tecnológicas
-- **Análisis y gestión de datos:** Excel / SQL / Python
-- **Visualización de datos / BI:** Tableau / Power BI
-- **Librerías de Python:** Pandas / NumPy / Matplotlib / Seaborn
+### Technical Skills
+- **Data Analysis & Management:** Excel / SQL / Python
+- **Data Visualization & BI:** Tableau / Power BI
+- **Python Libraries:** Pandas / NumPy / Matplotlib / Seaborn
 
 ---
 
-# Proyectos seleccionados
+# Selected Projects
 
-## Análisis de Comportamiento del Cliente para ConnectaTel
+## Customer Behavior Analysis for ConnectaTel
 
-En el sector de las telecomunicaciones, comprender los patrones de consumo es clave para **garantizar la retención de clientes** y **optimizar los planes comerciales**. Este proyecto analiza el comportamiento de los usuarios de ConnectaTel en Latinoamérica con el fin de identificar anomalías en los datos, detectar patrones de uso (llamadas, mensajes e internet) y generar estrategias accionables de fidelización.
+In the telecommunications sector, understanding consumption patterns is essential to **ensure customer retention** and **optimize commercial plans**. This project analyzes the behavior of ConnectaTel users in Latin America to identify data anomalies, detect usage patterns (calls, messages, and internet), and generate actionable loyalty strategies.
 
-#### Herramientas y tipo de proyecto
-Python / Pandas / Matplotlib / Seaborn / Limpieza de datos / Análisis Exploratorio (EDA) / Segmentación de Clientes
+#### Tools & Project Type
+Python / Pandas / Matplotlib / Seaborn / Data Cleaning / Exploratory Data Analysis (EDA) / Customer Segmentation
 
-### Preguntas clave
-1. ¿Qué segmentos de clientes consumen la mayor cantidad de recursos de la red?
-2. ¿Existen anomalías, valores atípicos o problemas severos de calidad en los datos recopilados?
-3. ¿Qué patrones de comportamiento nos permiten diseñar mejores planes para evitar la pérdida de usuarios?
+### Key Questions
+1. Which customer segments consume the highest amount of network resources?
+2. Are there anomalies, outliers, or severe quality issues in the collected data?
+3. What behavioral patterns can help us design better plans to prevent customer churn?
 
-### Metodología
-- **Evaluación de calidad y limpieza:** Identificación y tratamiento de valores nulos, registros inválidos y detección estadística de *outliers* (valores atípicos) en las bases de datos de usuarios, planes y consumo.
-- **Análisis Exploratorio (EDA):** Evaluación del comportamiento cruzado entre minutos consumidos, mensajes enviados y datos demográficos.
-- **Segmentación:** Agrupación de clientes con base en sus características de consumo para entender el valor de cada grupo.
+### Methodology
+- **Quality Assessment & Cleaning:** Identified and handled missing values, invalid records, and statistically detected outliers across the user, plan, and usage datasets.
+- **Exploratory Data Analysis (EDA):** Evaluated behavioral trends by cross-referencing minutes consumed, messages sent, and customer demographics.
+- **Segmentation:** Grouped customers based on consumption characteristics to understand the value and footprint of each profile.
 
-### Conclusiones y recomendaciones
-- **Calidad de datos prioritaria:** Se detectaron registros inválidos que afectaban las métricas; corregir estos flujos en el origen evitará reportes comerciales sesgados.
-- **Estrategia de retención basada en consumo:** Los patrones de uso de llamadas y datos permitieron identificar qué segmentos están subutilizando sus planes, abriendo una ventana para proponer *downgrades* controlados antes de que abandonen la compañía.
-- **Optimización de planes:** Se generaron recomendaciones específicas para reestructurar la oferta actual de planes comerciales basándose en la demanda real de los usuarios.
+### Insights & Recommendations
+- **Data Quality Priority:** Discovered invalid records that skewed core metrics; fixing these data pipelines at the source will prevent biased commercial reporting.
+- **Usage-Based Retention:** Call and data usage patterns highlighted segments underutilizing their plans, presenting an opportunity to offer proactive, controlled downgrades before they churn.
+- **Plan Optimization:** Generated data-driven recommendations to restructure current commercial plan offerings based on actual user demand.
 
-**[Explora el repositorio completo y el código en Jupyter Notebook aquí](https://github.com/santiagocortesv93-eng/ConnectaTel-Analysis)**
+**[Explore the full repository and Jupyter Notebook code here](https://github.com)**
 
 
 
