@@ -1,14 +1,10 @@
-# Santiago Cortés
-
-Welcome! I am a **Data Analyst** dedicated to turning complex data into clear, actionable business strategies.
-
-[View My GitHub Profile](https://github.com)
 
 # About Me
 
-A results-driven Engineering professional specializing in Data Analysis, with a solid background in extracting, cleaning, transforming, and modeling data to support strategic decision-making. 
+A business-driven Analyst with an academic background in **Business Administration (Bachelor's Degree)** and an **Advanced Diploma in Financial Administration**, specializing in **Data Analysis**. This unique blend of commercial strategy, financial acumen, and technical expertise allows me to bridge the gap between complex data and senior leadership.
 
-My focus centers on translating raw data into impactful insights and automating processes to optimize operational efficiency and drive business growth.
+My focus centers on extracting, cleaning, transforming, and modeling data to build predictive workflows and interactive dashboards. I am passionate about translating raw data into impactful, dollar-driven insights and automating processes to optimize operational efficiency and drive measurable business growth.
+
 
 ### Technical Skills
 - **Data Analysis & Management:** Excel / SQL / Python
